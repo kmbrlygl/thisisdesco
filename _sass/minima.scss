@@ -6,7 +6,7 @@ $base-font-family: 'Roboto', sans-serif !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875 !default;
-$base-line-height: 1.5 !default;
+$base-line-height: 1.75 !default;
 
 $heading-font-family: 'Montserrat', sans-serif !default;
 $heading-font-weight: 600;
@@ -14,8 +14,9 @@ $heading-font-weight: 600;
 $spacing-unit:     30px !default;
 
 $text-color:       #2F2F3F !default;
-$background-color: #fdfdfd !default;
+$background-color: #fff !default;
 $brand-color:      #00A3A0 !default;
+$brand-lemonade:   #FFF800;
 
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;

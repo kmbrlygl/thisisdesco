@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<p>{{ site.description | escape }}</p>
+<p class="site-description">{{ site.description | escape }}</p>
 
 <div class="notice">
 We’re looking for a space to have our bimonthly events. Please <a href="kim@thisisdesco.com">contact us</a> if you have a space available.
@@ -10,7 +10,7 @@ We’re looking for a space to have our bimonthly events. Please <a href="kim@th
 
 <div class="join" markdown="1">
 
-<a href="https://www.facebook.com/groups/sacdesco/" target="_blank"><img src="/assets/images/join-us.PNG" alt="Join Us on Facebook!"></a>
+<a href="https://www.facebook.com/groups/sacdesco/" target="_blank" class="no-ul"><img src="/assets/images/join-us.PNG" alt="Join Us on Facebook!"></a>
 
 Want to attend our next event? Maybe learn something new? Join our community!
 
@@ -18,9 +18,7 @@ Want to attend our next event? Maybe learn something new? Join our community!
 <a href="https://drive.google.com/open?id=12XppL2fxflYKkLUFzKb3XMsrcGRSPbpbUBo33UAugAo" target="_blank">Our Code of Conduct and Community Guidelines</a>
 
 ## CREDIT
-Logo design by Noelle Ceane
-
-Web design by Kimberly Losenara
+Logo design by Noelle Ceane, web design by Kimberly Losenara
 </div>
 
 <div class="mission" markdown="1">

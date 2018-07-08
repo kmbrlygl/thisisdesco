@@ -49,6 +49,7 @@ img {
 
 
 
+
 /**
  * Figures
  */
@@ -84,6 +85,7 @@ li {
 h1, h2, h3, h4, h5, h6 {
   font-family: $heading-font-family;
   font-weight: $heading-font-weight;
+  margin-top: $spacing-unit*2;
 }
 
 
@@ -101,7 +103,7 @@ a {
 
   &:hover {
     color: $text-color;
-    text-decoration: underline;
+    text-decoration: underline $brand-lemonade solid; 
   }
 
   .social-media-list &:hover {
@@ -214,3 +216,18 @@ pre {
     padding-top: 5px;
   }
 }
+
+.site-description {
+  font-family: $heading-font-family;
+  font-size: $base-font-size*1.5;
+  line-height: 1.3;
+  font-weight: 500;
+}
+/**
+ * Notice
+ */
+ .notice {
+   background-color: $grey-color-light;
+   padding: $spacing-unit/2;
+   margin: $spacing-unit*1.5 0;
+ }
