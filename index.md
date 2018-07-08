@@ -1,6 +1,7 @@
 ---
 layout: home
 ---
+
 <div class="intro">
 <p class="site-description">{{ site.description | escape }}</p>
 
