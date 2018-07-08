@@ -27,6 +27,7 @@ $content-width:    800px !default;
 
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
+$on-desktop:       1050px !default;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -66,6 +67,17 @@ $on-laptop:        800px !default;
   .join { 
     flex: 1;
     margin-left: $spacing-unit*2;
+  }
+}
+
+@include media-query($on-desktop) {
+  .site-header {
+    height: 50%;
+    width: 105px !important;
+    position: absolute !important;
+    max-height: inherit !important;
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 56%, 0 100%);
+    clip-path: polygon(0 0, 100% 0, 100% 96%, 0 100%);
   }
 }
 
