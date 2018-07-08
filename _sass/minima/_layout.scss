@@ -2,9 +2,13 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
-  min-height: $spacing-unit * 1.865;
+  background-color: $brand-color;
+  background-image: url(/assets/images/DESCO-Logo.png);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  max-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
   position: relative;
