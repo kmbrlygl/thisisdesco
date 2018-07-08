@@ -47,12 +47,6 @@ $on-desktop:       1050px !default;
 }
 
 @include media-query($on-laptop) {
-  .site-header {
-    height: 100% !important;
-    width: 150px !important;
-    position: absolute !important;
-    max-height: inherit !important;
-  }
   .intro {
     max-width: 550px;
   }
@@ -76,8 +70,8 @@ $on-desktop:       1050px !default;
     width: 105px !important;
     position: absolute !important;
     max-height: inherit !important;
-    -webkit-clip-path: polygon(0 0, 100% 0, 100% 56%, 0 100%);
-    clip-path: polygon(0 0, 100% 0, 100% 96%, 0 100%);
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 88%, 0 100%);
+    clip-path: polygon(0 0, 100% 0, 100% 88%, 0 100%);
   }
 }
 
