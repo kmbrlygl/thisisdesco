@@ -2,6 +2,8 @@
 layout: home
 ---
 
+<p>{{ site.description | escape }}</p>
+
 ## MISSION STATEMENT
 
 Our goal is to provide a community in Sacramento for diverse individuals like ourselves. We welcome those from all fields and backgrounds who are interested in design and design thinking. 
