@@ -6,7 +6,7 @@ layout: home
 <p class="site-description">{{ site.description | escape }}</p>
 
 <div class="notice">
-We’re looking for a space to have our bimonthly events. Please <a href="kim@thisisdesco.com">contact us</a> if you have a space available.
+We’re looking for a space to have our bimonthly events. Please <a href="mailto:kim@thisisdesco.com">contact us</a> if you have a space available.
 </div>
 </div>
 
@@ -20,8 +20,6 @@ Want to attend our next event? Maybe learn something new? Join our community!
 ## PLEASE READ
 <a href="https://drive.google.com/open?id=12XppL2fxflYKkLUFzKb3XMsrcGRSPbpbUBo33UAugAo" target="_blank">Our Code of Conduct and Community Guidelines</a>
 
-## CREDIT
-Logo design by Noelle Ceane, web design by Kimberly Losenara
 </div>
 
 <div class="mission" markdown="1">
