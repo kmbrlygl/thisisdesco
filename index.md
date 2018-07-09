@@ -14,7 +14,7 @@ We’re looking for a space to have our bimonthly events. Please <a href="mailto
 
 <div class="join" markdown="1">
 
-<a href="https://www.facebook.com/groups/sacdesco/" target="_blank" class="no-ul"><img src="/assets/images/join-us.PNG" alt="Join Us on Facebook!"></a>
+<a href="https://www.facebook.com/groups/sacdesco/" target="_blank" class="no-ul"><img src="assets/images/join-us.PNG" alt="Join Us on Facebook!"></a>
 Want to attend our next event? Maybe learn something new? Join our community!
 
 ## PLEASE READ
