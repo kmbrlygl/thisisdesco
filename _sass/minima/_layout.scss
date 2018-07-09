@@ -4,7 +4,7 @@
 .site-header {
   background-color: $brand-color;
   width: 100%;
-  max-height: 100px;
+  min-height: 100px;
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -27,6 +27,9 @@
   &:visited {
     color: $grey-color-dark;
   }
+}
+.logo {
+  margin: 0 auto;
 }
 
 .site-nav {
