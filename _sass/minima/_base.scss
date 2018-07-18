@@ -103,15 +103,15 @@ a {
 
   &:hover {
     color: $text-color;
-    text-decoration: underline $brand-lemonade solid; 
+    text-decoration: underline $brand-lemonade solid;
   }
 
   .social-media-list &:hover {
     text-decoration: none;
 
-    .username {
-      text-decoration: underline;
-    }
+      .username {
+        text-decoration: underline;
+      }
   }
 }
 
