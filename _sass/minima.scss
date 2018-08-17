@@ -36,6 +36,50 @@ $on-desktop:       1050px !default;
 //     padding-left: $spacing-unit / 2;
 //   }
 // }
+
+h2 {
+  text-transform: uppercase;
+  font-size: $base-font-size * 1.5;
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+.bio {
+  text-align: center;
+
+  .bio-name {
+    font-size: $base-font-size;
+    font-family: $heading-font-family;
+    font-weight: $heading-font-weight;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+  }
+
+  .bio-channels a {
+    color: $brand-color;
+    font-family: $base-font-family;
+
+    &:hover {
+      color: $text-color;
+    }
+  }
+
+  ul {
+    margin: 0;
+
+    li {
+      list-style: none;
+      margin-bottom: 80px;
+
+      img {
+        margin-bottom: 24px;
+        width: 180px;
+        height: auto;
+      }
+    }
+  }
+}
+
 @mixin media-query($device) {
   @media screen and (min-width: $device) {
     @content;
@@ -47,6 +91,8 @@ $on-desktop:       1050px !default;
 }
 
 @include media-query($on-laptop) {
+  h2 {text-align: left;}
+
   .intro {
     max-width: 550px;
   }
@@ -54,13 +100,20 @@ $on-desktop:       1050px !default;
     display: flex;
     flex-direction: row-reverse;
   }
-  .mission { 
+  .mission {
     flex: 1;
-    flex-grow: 1.5; 
+    flex-grow: 1.5;
   }
-  .join { 
+  .join {
     flex: 1;
     margin-left: $spacing-unit*2;
+  }
+
+  .bio {text-align: left;}
+
+  .bio img {
+    float: left;
+    margin-right: 36px;
   }
 }
 
@@ -78,7 +131,7 @@ $on-desktop:       1050px !default;
 
 // Import partials.
 @import
-  "minima/base",
-  "minima/layout",
-  "minima/syntax-highlighting"
+"minima/base",
+"minima/layout",
+"minima/syntax-highlighting"
 ;
