@@ -4,20 +4,22 @@ layout: home
 
 <div class="intro">
   <p class="site-description">{{ site.description | escape }}</p>
-  <div class="notice">We’re looking for a space to have our bimonthly events. Please <a href="mailto:kim@thisisdesco.com">contact us</a> if you have a space available.</div>
+  <div class="notice" markdown="1">Come join us at our next event:
+
+  **[9/20 — Coworking Sessions (Fonts & Typography)](https://www.facebook.com/events/436017773574403/?event_time_id=436017786907735)**
+  </div>
 </div>
 
 <div class="flex-col">
   <div class="join" markdown="1">
   <a href="https://www.facebook.com/groups/sacdesco/" target="_blank" class="no-ul"><img src="assets/images/join-us.PNG" alt="Join Us on Facebook!"></a>
-Want to attend our next event? Maybe learn something new? Join our community!
+No Facebook? No problem! Join us on Slack at [Sac Desco Slack group](https://bit.ly/2ON47xl)! 
 
 ## PLEASE READ
 <a href="https://drive.google.com/open?id=12XppL2fxflYKkLUFzKb3XMsrcGRSPbpbUBo33UAugAo" target="_blank">Our Code of Conduct and Community Guidelines</a>
 </div>
 
 <div class="mission" markdown="1">
-
 ## OUR MISSION
 Our goal is to provide a community in Sacramento for diverse individuals like ourselves. We welcome those from all fields and backgrounds who are interested in design and design thinking.
 
@@ -26,10 +28,17 @@ We specialize in these areas: UX, UI, illustration, web design, photography, typ
 We want to create an environment that fosters learning and discussion around design and its related topics. Our community is a safe and inclusive space, online and in person, where people of all skill levels can collaborate, exchange ideas, learn, receive feedback, maintain accountability, and network.
 
 Our collective encourages the intersection of technology and interdisciplinary studies. We approach design from a standpoint of modernity and practicality, and hope to work together to improve the overall quality of the craft.
+
+Want to attend our next event? Maybe learn something new? Join our community!
 </div>
 </div>
 
 <div class="bio" markdown="1">
+## Follow Us on INSTAGRAM
+
+<!-- SnapWidget -->
+<script src="https://snapwidget.com/js/snapwidget.js"></script>
+<iframe src="https://snapwidget.com/embed/597677" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; "></iframe>
 
 <h2>Who we are</h2>
 <ul class="">

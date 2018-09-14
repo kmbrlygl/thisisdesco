@@ -230,4 +230,7 @@ pre {
    background-color: $grey-color-light;
    padding: $spacing-unit/2;
    margin: $spacing-unit*1.5 0;
+   p {
+     margin-bottom: 0;
+   }
  }
