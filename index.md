@@ -4,9 +4,9 @@ layout: home
 
 <div class="intro">
   <p class="site-description">{{ site.description | escape }}</p>
-  <div class="notice" markdown="1">Come join us at our next event:
+  <div class="notice" markdown="1">Come join us at our next Coworking Session, Workshop or Social: 
 
-  **[9/20 — Coworking Sessions (Fonts & Typography)](https://www.facebook.com/events/436017773574403/?event_time_id=436017786907735)**
+  **[Sac Desco's Upcoming Events (Facebook)](https://www.facebook.com/pg/sacdesco/events/)**
   </div>
 </div>
 
