@@ -17,19 +17,24 @@ No Facebook? No problem! Join us on Slack at [Sac Desco Slack group](https://bit
 
 ## PLEASE READ
 <a href="https://drive.google.com/open?id=12XppL2fxflYKkLUFzKb3XMsrcGRSPbpbUBo33UAugAo" target="_blank">Our Code of Conduct and Community Guidelines</a>
+
+Participation in this collective via Facebook, Slack, or in-person means that you agree to our Code of Conduct and understand our guidelines.
+
 </div>
 
 <div class="mission" markdown="1">
 ## OUR MISSION
-Our goal is to provide a community in Sacramento for diverse individuals like ourselves. We welcome those from all fields and backgrounds who are interested in design and design thinking.
+Sac Desco (Design Collective)'s goal is to provide a community in Sacramento for individuals from all backgrounds, fields and skill levels who are interested in design and design thinking.
 
-We specialize in these areas: UX, UI, illustration, web design, photography, typography & lettering, graphic design, branding, and beyond.
+Our members come from diverse backgrounds such as: Biology, History, Software Engineering, Design, Cognitive Science, and Human Development.
 
-We want to create an environment that fosters learning and discussion around design and its related topics. Our community is a safe and inclusive space, online and in person, where people of all skill levels can collaborate, exchange ideas, learn, receive feedback, maintain accountability, and network.
+Our interests include: UX, UI, illustration, web design, photography, typography & lettering, graphic design, branding, and beyond.
 
-Our collective encourages the intersection of technology and interdisciplinary studies. We approach design from a standpoint of modernity and practicality, and hope to work together to improve the overall quality of the craft.
+## WHAT DO WE DO
 
-Want to attend our next event? Maybe learn something new? Join our community!
+Our collective encourages the intersection of technology and interdisciplinary studies. We meet monthly (in person) to discuss design and its related topics in a safe and inclusive environment. For those that can’t join us in person, we also have online spaces where people of all skill levels can collaborate, exchange ideas, learn, receive feedback, maintain accountability, and network.
+
+We approach design from a modern and practical standpoint and hope to work together to improve the overall quality of the craft.
 </div>
 </div>
 
@@ -39,7 +44,7 @@ Want to attend our next event? Maybe learn something new? Join our community!
 <script src="https://snapwidget.com/js/snapwidget.js"></script>
 <iframe src="https://snapwidget.com/embed/597677" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; "></iframe>
 
-<h2>Who we are</h2>
+<h2>DESCO Organizers</h2>
 <ul class="">
   <li><img src="assets/images/bio-images-square/kimberlygail.png" alt="Kimberly Gail">
   <div class="bio-name">Kimberly Gail</div>
