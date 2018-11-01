@@ -42,7 +42,7 @@ We approach design from a modern and practical standpoint and hope to work toget
 ## Follow Us on INSTAGRAM
 <!-- SnapWidget -->
 <script src="https://snapwidget.com/js/snapwidget.js"></script>
-<iframe src="https://snapwidget.com/embed/597677" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; "></iframe>
+<iframe src="https://snapwidget.com/embed/617434" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; "></iframe>
 
 <h2>DESCO Organizers</h2>
 <ul class="">
