@@ -49,26 +49,26 @@ We approach design from a modern and practical standpoint and hope to work toget
   <li><img src="assets/images/bio-images-square/11-2018/kim-headshot.jpg" alt="Kimberly Gail">
   <div class="bio-name">Kimberly Gail Loseñara</div>
   Kimberly is a designer and lettering artist, refining her UX skills and immersing herself in Sacramento's design community. She runs a freelance design studio (Be Wilder Creative) and specializes in 5-minute power naps. Talk to her about inclusive design, typography, and local concerts ✌🏼.
-  <div class="bio-channels">Instagram: <a href="http://instagram.com/thingsmyhands" target="_blank">thingsmyhands</a> // Twitter: <a href="https://twitter.com/kmbrlygl" target="_blank">kmbrlygl</a> // Dribbble: <a href="https://dribbble.com/kmbrlygl" target="_blank">kmbrlygl</a></div></li>
+  <div class="bio-channels">Instagram: <a href="https://instagram.com/thingsmyhands" target="_blank">thingsmyhands</a> // Twitter: <a href="https://twitter.com/kmbrlygl" target="_blank">kmbrlygl</a> // Dribbble: <a href="https://dribbble.com/kmbrlygl" target="_blank">kmbrlygl</a></div></li>
   <li><img src="assets/images/bio-images-square/11-2018/ivan-headshot.jpg" alt="Ivan Villa">
   <div class="bio-name">Ivan Villa</div>
   Ivan is the lead web developer and co-founder of Scribe — a full service digital creative agency in Sacramento. His passion for design and programming keeps him active in the community. His current interests include, performant web design, web animations, and interactive design.
-  <div class="bio-channels">Instagram: <a href="http://instagram.com/ivanvillacreative" target="_blank">ivanvillacreative</a> // Twitter: <a href="https://twitter.com/ivan_villa" target="_blank">ivan_villa</a> // Dribbble: <a href="https://dribbble.com/ivanvilla" target="_blank">ivanvilla</a></div></li>
+  <div class="bio-channels">Instagram: <a href="https://instagram.com/ivanvillacreative" target="_blank">ivanvillacreative</a> // Twitter: <a href="https://twitter.com/ivan_villa" target="_blank">ivan_villa</a> // Dribbble: <a href="https://dribbble.com/ivanvilla" target="_blank">ivanvilla</a></div></li>
   <li><img src="assets/images/bio-images-square/11-2018/noelle-headshot.jpg" alt="Noelle Szombathy">
   <div class="bio-name">Noelle Szombathy</div>
   Noelle is a photographer and designer who is inspired by travel. She's worked on a range of projects - from logo design to personalized illustrations. As a rookie in the formal design world, she is always looking to expand her toolbox and jump head-first into a new challenge.
-  <div class="bio-channels">Instagram: <a href="http://instagram.com/noellered" target="_blank">noellered</a></div></li>
+  <div class="bio-channels">Instagram: <a href="https://instagram.com/noellered" target="_blank">noellered</a></div></li>
   <li><img src="assets/images/bio-images-square/11-2018/tanu-headshot.jpg" alt="Tanu Padath">
   <div class="bio-name">Tanu Padath</div>
   Tanu is a former Biologist crafting her skills in Design and User Research. Her true passion lies in the preliminary stages of design - analyzing the user's needs and behavior before problem solving. Talk to her about your favorite hike or podcast!
-  <div class="bio-channels">Instagram: <a href="http://instagram.com/_tan_u" target="_blank">_tan_u</a></div></li>
+  <div class="bio-channels">Instagram: <a href="https://instagram.com/_tan_u" target="_blank">_tan_u</a></div></li>
   <li><img src="assets/images/bio-images-square/11-2018/mandi-headshot.jpg" alt="Mandi Saeteun">
   <div class="bio-name">Mandi Saeteun</div>
   Mandi is a design generalist who enjoys tinkering with data, sketching with sharpies and jamming on front-end code to make products better. When she isn’t running operations at Excel Interpreting & Translating, you’ll find her climbing outdoors or nestled up with the latest issue of Saga.
-  <div class="bio-channels">Instagram: <a href="http://instagram.com/mandimey" target="_blank">mandimey</a> // Twitter: <a href="https://twitter.com/mandi_mey" target="_blank">mandi_mey</a> // Dribbble: <a href="https://dribbble.com/mandimey" target="_blank">mandimey</a></div></li>
+  <div class="bio-channels">Instagram: <a href="https://instagram.com/mandimey" target="_blank">mandimey</a> // Twitter: <a href="https://twitter.com/mandi_mey" target="_blank">mandi_mey</a> // Dribbble: <a href="https://dribbble.com/mandimey" target="_blank">mandimey</a></div></li>
   <li><img src="assets/images/bio-images-square/11-2018/milo-headshot.jpg" alt="Milo Cho">
   <div class="bio-name">Milo Cho</div>
   Milo is a designer with a previous life as a front-end developer. He's inspired by mismatched interactions, and he enjoys seeking out unknown unknowns. You can also find him traveling in his retrofitted minivan, taking photos, or playing with his dog.
-  <div class="bio-channels">Instagram: <a href="http://instagram.com/bymilocho" target="_blank">bymilocho</a></div></li>
+  <div class="bio-channels">Instagram: <a href="https://instagram.com/bymilocho" target="_blank">bymilocho</a></div></li>
 </ul>
 </div>
