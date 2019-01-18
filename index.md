@@ -70,5 +70,9 @@ We approach design from a modern and practical standpoint and hope to work toget
   <div class="bio-name">Milo Cho</div>
   Milo is a designer with a previous life as a front-end developer. He's inspired by mismatched interactions, and he enjoys seeking out unknown unknowns. You can also find him traveling in his retrofitted minivan, taking photos, or playing with his dog.
   <div class="bio-channels">Instagram: <a href="https://instagram.com/bymilocho" target="_blank">bymilocho</a></div></li>
+  <li><img src="assets/images/bio-images-square/zephyr.jpg" alt="Zephyr">
+  <div class="bio-name">Zephyr</div>
+  Zephyr is our mascot. He is a young pup full of energy and curiosity. He happily encourages everyone with hugs and kisses especially when belly rubs and treats are involved. He also enjoys play dates, tug-of-war, and new smells.
+  </li>
 </ul>
 </div>
