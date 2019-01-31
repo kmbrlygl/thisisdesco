@@ -4,18 +4,20 @@ layout: home
 
 <div class="intro">
   <p class="site-description">{{ site.description | escape }}</p>
-  <div class="notice" markdown="1">Come join us at our next Coworking Session, Workshop or Social: 
+  <div class="notice" markdown="1">Come join us at our next Coworking Session, Workshop or Social:
 
-  **[Sac Desco's Upcoming Events (Facebook)](https://www.facebook.com/pg/sacdesco/events/)**
+**[Sac Desco's Upcoming Events (Facebook)](https://www.facebook.com/pg/sacdesco/events/)**
+
   </div>
 </div>
 
 <div class="flex-col">
   <div class="join" markdown="1">
   <a href="https://www.facebook.com/groups/sacdesco/" target="_blank" class="no-ul"><img src="assets/images/join-us.PNG" alt="Join Us on Facebook!"></a>
-No Facebook? No problem! Join us on Slack at [Sac Desco Slack group](https://bit.ly/2ON47xl)! 
+No Facebook? No problem! Join us on Slack at [Sac Desco Slack group](https://bit.ly/2ON47xl)!
 
 ## PLEASE READ
+
 <a href="https://drive.google.com/open?id=12XppL2fxflYKkLUFzKb3XMsrcGRSPbpbUBo33UAugAo" target="_blank">Our Code of Conduct and Community Guidelines</a>
 
 Participation in this collective via Facebook, Slack, or in-person means that you agree to our Code of Conduct and understand our guidelines.
@@ -35,6 +37,7 @@ Our interests include: UX, UI, illustration, web design, photography, typography
 Our collective encourages the intersection of technology and interdisciplinary studies. We meet monthly (in person) to discuss design and its related topics in a safe and inclusive environment. For those that can’t join us in person, we also have online spaces where people of all skill levels can collaborate, exchange ideas, learn, receive feedback, maintain accountability, and network.
 
 We approach design from a modern and practical standpoint and hope to work together to improve the overall quality of the craft.
+
 </div>
 </div>
 
@@ -58,8 +61,8 @@ We approach design from a modern and practical standpoint and hope to work toget
   <div class="bio-name">Noelle Szombathy</div>
   Noelle is a photographer and designer who is inspired by travel. She's worked on a range of projects - from logo design to personalized illustrations. As a rookie in the formal design world, she is always looking to expand her toolbox and jump head-first into a new challenge.
   <div class="bio-channels">Instagram: <a href="https://instagram.com/noellered" target="_blank">noellered</a></div></li>
-  <li><img src="assets/images/bio-images-square/11-2018/tanu-headshot.jpg" alt="Tanu Padath">
-  <div class="bio-name">Tanu Padath</div>
+  <li><img src="assets/images/bio-images-square/11-2018/tanu-headshot.jpg" alt="Tanushree Padath">
+  <div class="bio-name">Tanushree Padath</div>
   Tanu is a former Biologist crafting her skills in Design and User Research. Her true passion lies in the preliminary stages of design - analyzing the user's needs and behavior before problem solving. Talk to her about your favorite hike or podcast!
   <div class="bio-channels">Instagram: <a href="https://instagram.com/_tan_u" target="_blank">_tan_u</a></div></li>
   <li><img src="assets/images/bio-images-square/11-2018/mandi-headshot.jpg" alt="Mandi Saeteun">
