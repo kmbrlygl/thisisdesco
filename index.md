@@ -4,9 +4,11 @@ layout: home
 
 <div class="intro">
   <p class="site-description">{{ site.description | escape }}</p>
-  <div class="notice" markdown="1">Come join us at our next Coworking Session, Workshop or Social:
+  <div class="notice" markdown="1">Come join us at our next <strong>Café Chat or Workshop</strong>:
 
 **[Sac Desco's Upcoming Events (Facebook)](https://www.facebook.com/pg/sacdesco/events/)**
+<br><br>
+Interested in presenting a workshop or being a Café Chat guest? <a href="mailto:thisisdesco@gmail.com?subject=Workshop or Cafe Chat Inquiry">Send us an email</a> and we'll give you the details!
 
   </div>
 </div>
