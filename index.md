@@ -16,7 +16,7 @@ Interested in presenting a workshop or being a Café Chat guest? <a href="mailto
 <div class="flex-col">
   <div class="join" markdown="1">
   <a href="https://www.facebook.com/groups/sacdesco/" target="_blank" class="no-ul"><img src="assets/images/join-us.PNG" alt="Join Us on Facebook!"></a>
-No Facebook? No problem! Join us on Slack at [Sac Desco Slack group](https://bit.ly/2ON47xl)!
+No Facebook? No problem! Join us on Slack at [Sac Desco Slack group](https://join.slack.com/t/sac-desco/shared_invite/enQtNDE4NzEwNjY1MDkxLTJhNzI3MjhkMTMzNTNjZTUyZjQ5YTIyOWYyNmNkZGI2ZTI5MWZjMjQzZjYzNDQ1ZDIwNTRmN2NjMWM1OWVkYjQ)!
 
 ## PLEASE READ
 
